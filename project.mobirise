@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "louma",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -359,7 +359,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "電路浩瀚，老馬只是懂得皮毛，將懂的東西告訴你。",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"hard_basci.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>基本課程</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"https://sites.google.com/site/laomashizuo/louma/zhuan-ti-dan-yuan\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>主題課程</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"hard_basci.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>基本課程</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary-outline\" data-app-placeholder=\"Type Text\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>主題課程</a>"
               }
             ]
           }
