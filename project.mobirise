@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "louma",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,11 +43,13 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 109,
-    "versionPublish": "4.11.6",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon4mobi.ico",
     "noImageResize": "",
-    "modified": "2019-12-12T14:28:02.278Z"
+    "modified": "2019-12-12T14:28:02.278Z",
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -320,7 +322,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/background1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background1.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
