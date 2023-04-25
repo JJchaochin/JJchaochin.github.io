@@ -1,0 +1,11 @@
+git config user.name 看看目前的使用者是誰       
+
+>git init（有了.git資料夾，這個指令就不用了）
+
+>git add .
+
+>git commit -m "你的標註"
+
+>git push
+
+完成上傳後，網頁不會馬上更新，大概等個5~10分鐘，才會反應在新網頁上。
